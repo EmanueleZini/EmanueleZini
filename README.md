@@ -1,6 +1,6 @@
 ## Hey there! 👋  
 
-I’m **Emanuele**, a **recent Computer Science graduate** based in Italy.  
+I’m [**Emanuele**](https://allmylinks.com/emanuelezn), a **recent Computer Science graduate** based in Italy.  
 
 I live my life one goal at a time — and right now, that goal is to become a **Senior Software Engineer**. 🚀  
 
