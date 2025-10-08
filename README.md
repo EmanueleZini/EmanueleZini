@@ -1,6 +1,6 @@
 ## Hey there! 👋  
 
-I’m [**Emanuele**](https://allmylinks.com/emanuelezn), a **recent Computer Science graduate** based in Italy.  
+I’m **Emanuele**, a **recent Computer Science graduate** based in Italy.  
 
 I live my life one goal at a time — and right now, that goal is to become a **Senior Software Engineer**. 🚀  
 
@@ -11,7 +11,7 @@ Right now, I don’t have many pinned projects, but my goal is to **fill my GitH
 
 My favorite project so far is **MonKey**, an **e-commerce website simulation** I built during university.  
 
-If you’d like to follow my journey to becoming a better software engineer, connect with me on my socials! 🌱  
+If you’d like to follow my journey to becoming a better software engineer, connect with me on my [**socials**](https://allmylinks.com/emanuelezn)! 🌱  
 
 ---
 
