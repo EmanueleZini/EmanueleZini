@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey there! 👋  
 
-<!--
-**EmanueleZini/EmanueleZini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Emanuele**, a **recent Computer Science graduate** based in Italy.  
 
-Here are some ideas to get you started:
+I live my life one goal at a time — and right now, that goal is to become a **Senior Software Engineer**. 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack includes **Java, C, HTML, CSS, JavaScript, MySQL, and Python**.  
+I’m currently learning the **React framework** to strengthen my front-end skills.  
+
+Right now, I don’t have many pinned projects, but my goal is to **fill my GitHub with green dots** — one commit at a time. 💚  
+
+My favorite project so far is **MonKey**, an **e-commerce website simulation** I built during university.  
+
+If you’d like to follow my journey to becoming a better software engineer, connect with me on my socials! 🌱  
+
+---
+
+### 🧠 Fun Facts  
+- 🤸‍♂️ I’m a **Calisthenics athlete**  
+- 🎬 I’m also a **video editor**  
+- 📚 Hobbies: **reading, yoga, and making videos**
+
